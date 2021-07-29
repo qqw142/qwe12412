@@ -1,0 +1,12 @@
+
+
+/* Start:/local/templates/ruspoll/styles.css?1597756901132*/
+@media (max-width: 767px) {
+    .html img {
+        max-width: 100%;
+        object-fit: contain;
+        max-height: 240px;
+    }
+}
+/* End */
+/* /local/templates/ruspoll/styles.css?1597756901132 */
